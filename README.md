@@ -11,7 +11,7 @@ Just fork the original repo at pragmaticlearning/github-example, make your chang
 Added a new subheading
 ----------------------
 
-* _commmit some changes
+* _commmit some changes_
 * _new pull request_
-* _create pull request
+* _create pull request_
 * ...
